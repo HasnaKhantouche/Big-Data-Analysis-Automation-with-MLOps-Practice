@@ -1,0 +1,5 @@
+outs:
+- md5: a9c818610b4f68ea4e18734dbfed0539
+  size: 16462
+  hash: md5
+  path: worldometer_data.csv
