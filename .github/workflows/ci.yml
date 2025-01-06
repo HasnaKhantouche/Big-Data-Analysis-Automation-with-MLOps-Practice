@@ -20,5 +20,5 @@ jobs:
 
       - name: Build and Push Docker Image
         run: |
-          docker build -t your-dockerhub-username/projet-big-data .
-          docker push your-dockerhub-username/projet-big-data
+          docker build -t HasnaKhantouche/projet-big-data .
+          docker push HasnaKhantouche/projet-big-data
