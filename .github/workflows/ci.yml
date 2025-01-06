@@ -20,5 +20,5 @@ jobs:
 
       - name: Build and Push Docker Image
         run: |
-          docker build -t HasnaKhantouche/projet-big-data .
-          docker push HasnaKhantouche/projet-big-data
+          docker build -t hasnakhantouche2001/big-data-analysis-automation-with-mlops-practice .
+          docker push hasnakhantouche2001/big-data-analysis-automation-with-mlops-practice
